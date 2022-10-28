@@ -6,7 +6,7 @@
 	- Java 🍵
   - C++ -->
 
-<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 - **Data Structure & Algo - Java🍵**
 - **Backend Web Development 🧬**
 - **DevOps ♾️**
