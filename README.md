@@ -12,6 +12,7 @@
 - **Backend Web Development 🧬**
 - **DevOps ♾️**
 - **Operating Systems ⚙️**
+<br/><br/>
 <!-- 	- HTML, CSS, Javascript and Go :white_check_mark:
 	- Bootstrap
 	- React with Redux :electron:
