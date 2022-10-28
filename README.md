@@ -47,14 +47,14 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
-
-## Shell Scripting
+<br/><br/>
+<!-- ## Shell Scripting
 
 <code><a href="https://go.dev/" target="_blank"><img height="50" src="https://go.dev/images/go-logo-white.svg"></a></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 <br/><br/>
-<br/><br/>
+<br/><br/> -->
 
 ## 🌱 I’m currently learning ...
 - **Full Stack Developement**
