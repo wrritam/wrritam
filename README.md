@@ -5,8 +5,9 @@
 <!-- - **Competitive Programming**
 	- Java 🍵
   - C++ -->
+
+<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 - **Data Structure & Algo - Java🍵**
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 - **Backend Web Development 🧬**
 - **DevOps ♾️**
 - **Operating Systems ⚙️**
