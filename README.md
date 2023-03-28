@@ -57,7 +57,7 @@
 <br/><br/> -->
 
 ## 🌱 I’m currently learning ...
-- **Full Stack Developement**
+- **Full Stack Development**
 - **DevOps**
 <br/>
   <br/>
