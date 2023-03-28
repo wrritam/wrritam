@@ -57,7 +57,7 @@
 <br/><br/> -->
 
 ## 🌱 I’m currently learning ...
-- **Full Stack Development**
+- **Web3 and Blockchain**
 - **DevOps**
 <br/>
   <br/>
